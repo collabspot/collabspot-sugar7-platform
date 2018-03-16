@@ -3,10 +3,10 @@ $manifest = array (
   'id' => 'collabspot-platform',
   'name' => 'Collabspot Platform Registration',
   'description' => 'Registers Collabspot\'s platforms for REST API usage.',
-  'version' => '1.0.1',
+  'version' => '1.1.0',
   'author' => 'Collabspot',
   'is_uninstallable' => 'true',
-  'published_date' => '2018-03-02 11:00:00',
+  'published_date' => '2018-03-16 14:00:00',
   'type' => 'module',
   'acceptable_sugar_versions' =>
   array (
