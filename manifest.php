@@ -3,10 +3,10 @@ $manifest = array (
   'id' => 'collabspot-platform',
   'name' => 'Collabspot Platform Registration',
   'description' => 'Registers Collabspot\'s platforms for REST API usage.',
-  'version' => '1.1.0',
+  'version' => '1.2.0',
   'author' => 'Collabspot',
   'is_uninstallable' => 'true',
-  'published_date' => '2018-03-16 14:00:00',
+  'published_date' => '2018-07-08 14:00:00',
   'type' => 'module',
   'acceptable_sugar_versions' =>
   array (
@@ -18,6 +18,7 @@ $manifest = array (
       0 => '^7.9.[\\d]+.[\\d]+$',
       1 => '^7.10.[\\d]+.[\\d]+$',
       2 => '^7.11.[\\d]+.[\\d]+$',
+      3 => '^8.[\\d]+.[\\d]+$',
     ),
   ),
 );
